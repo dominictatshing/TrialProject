@@ -13,8 +13,6 @@
         </form> 
     </body>
 
-    <h1>hello</h1>
-
     <script type="text/javascript">
 
         //function to retrieve url query string's key value
